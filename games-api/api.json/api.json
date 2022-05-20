@@ -1,0 +1,31 @@
+{
+    "persons": [
+        {
+            "id" : 1,
+            "name" : "Joao Silva",
+            "email": "joao.silva@terra.com",
+            "age": 80
+        },
+        {
+            "id" : 2,
+            "name" : "Carlos Silva",
+            "email": "carlos.silva@terra.com",
+            "age": 30
+        },
+        {
+            "id" : 3,
+            "name" : "Denis Silva",
+            "email": "denis.silva@terra.com",
+            "age": 10
+        }
+    ],
+    "games": {
+
+        "id": 12,
+        "name": "Halo 4",
+        "category": "Action",
+        "year": "2016",
+        "price": 200
+
+    }
+}
